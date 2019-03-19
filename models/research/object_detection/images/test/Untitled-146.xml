@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>Untitled-146.jpg</filename>
+	<path>C:\Users\Maico\Desktop\D3-MAPPING\images\test\Untitled-146.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>310</width>
+		<height>310</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Guardian2</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>102</xmin>
+			<ymin>105</ymin>
+			<xmax>141</xmax>
+			<ymax>145</ymax>
+		</bndbox>
+	</object>
+</annotation>

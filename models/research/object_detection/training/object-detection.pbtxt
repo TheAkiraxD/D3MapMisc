@@ -1,0 +1,36 @@
+item {
+	id: 1
+	name: 'PowerPylon'
+}
+item {
+	id: 2
+	name: 'ConduitPylon'
+}
+item {
+	id: 3
+	name: 'ChannPylon'
+}
+item {
+	id: 4
+	name: 'ShieldPylon'
+}
+item {
+	id: 5
+	name: 'SpeedPylon'
+}
+item {
+	id: 6
+	name: 'Guardian'
+}
+item {
+	id: 7
+	name: 'Guardian2'
+}
+item {
+	id: 8
+	name: 'Urushi'
+}
+item {
+	id: 9
+	name: 'Exit'
+}

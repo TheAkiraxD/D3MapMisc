@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>Untitled-82.jpg</filename>
+	<path>C:\Users\Maico\Desktop\D3-MAPPING\images\test\Untitled-82.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>310</width>
+		<height>310</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Urushi</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>174</xmin>
+			<ymin>104</ymin>
+			<xmax>200</xmax>
+			<ymax>145</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>Untitled-127.jpg</filename>
+	<path>C:\Users\Maico\Desktop\D3-MAPPING\images\train\Untitled-127.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>310</width>
+		<height>310</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>SpeedPylon</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>107</xmin>
+			<ymin>146</ymin>
+			<xmax>128</xmax>
+			<ymax>188</ymax>
+		</bndbox>
+	</object>
+</annotation>

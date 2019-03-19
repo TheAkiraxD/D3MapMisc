@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>Untitled-93.jpg</filename>
+	<path>C:\Users\Maico\Desktop\D3-MAPPING\images\train\Untitled-93.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>310</width>
+		<height>310</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Exit</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>184</xmin>
+			<ymin>254</ymin>
+			<xmax>202</xmax>
+			<ymax>281</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>Untitled-60.jpg</filename>
+	<path>C:\Users\Maico\Desktop\D3-MAPPING\images\test\Untitled-60.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>310</width>
+		<height>310</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Exit</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>121</xmin>
+			<ymin>156</ymin>
+			<xmax>139</xmax>
+			<ymax>183</ymax>
+		</bndbox>
+	</object>
+</annotation>

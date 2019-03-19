@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>Untitled-97.jpg</filename>
+	<path>C:\Users\Maico\Desktop\D3-MAPPING\images\train\Untitled-97.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>310</width>
+		<height>310</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Guardian</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>109</xmin>
+			<ymin>99</ymin>
+			<xmax>153</xmax>
+			<ymax>133</ymax>
+		</bndbox>
+	</object>
+</annotation>
